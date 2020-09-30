@@ -1,0 +1,31 @@
+.main-img {
+    width: 100%;
+}
+
+.right-side-of-img {
+    margin-top: 30px;
+    overflow-y: auto;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.img-description {
+    margin-top: 0;
+}
+
+.home-img-wrapper{
+    width: 100%;
+    text-align: center;
+}
+
+.home-page-img {
+    width: 50%;
+    border-radius: 10px;
+}
+
+.home-page-img:hover{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}

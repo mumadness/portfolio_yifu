@@ -1,0 +1,9 @@
+@import-normalize;
+@import 'button.css';
+@import 'Home.css';
+@import 'About.css';
+
+*, *::before, *::after {
+    font-family: 'Varela Round', sans-serif;
+    box-sizing: border-box;
+}

@@ -1,0 +1,17 @@
+.about-content{
+    width: 100%;
+    display: flex;
+}
+
+.about-img-wrapper {
+    width: 50%;
+}
+
+.about-img {
+    width: 80%;
+    border-radius: 15px;
+}
+
+.about-intro-p {
+    padding-bottom: 20px;
+}

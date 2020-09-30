@@ -1,0 +1,23 @@
+@import "NavBar.css";
+@import "HomeMain.css";
+@import "Projects.css";
+
+.footer{
+    margin-top: -50px;
+    height: 100px;
+    background-color: #011638;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 3px 3px 0 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer-content {
+    margin-bottom: 10px;
+}
+
+.footer-icon {
+    font-size: 20px;
+}

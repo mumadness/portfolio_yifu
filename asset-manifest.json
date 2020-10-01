@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.298cf8e8.chunk.css",
+    "main.js": "/portfolio/static/js/main.a44f4178.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a44f4178.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.46091dda.chunk.js": "/portfolio/static/js/2.46091dda.chunk.js",
+    "static/js/2.46091dda.chunk.js.map": "/portfolio/static/js/2.46091dda.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.e159e051a92f9bf814b41027ebdf2f00.js": "/portfolio/precache-manifest.e159e051a92f9bf814b41027ebdf2f00.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.298cf8e8.chunk.css.map": "/portfolio/static/css/main.298cf8e8.chunk.css.map",
+    "static/js/2.46091dda.chunk.js.LICENSE.txt": "/portfolio/static/js/2.46091dda.chunk.js.LICENSE.txt",
+    "static/media/american-idiot.jpg": "/portfolio/static/media/american-idiot.30b689b6.jpg",
+    "static/media/cambodia.jpg": "/portfolio/static/media/cambodia.8450cf55.jpg",
+    "static/media/capitol-gs.jpg": "/portfolio/static/media/capitol-gs.3cc53f2a.jpg",
+    "static/media/montana-sun.jpg": "/portfolio/static/media/montana-sun.d8a083f7.jpg",
+    "static/media/taormina-etna.jpg": "/portfolio/static/media/taormina-etna.561b160b.jpg",
+    "static/media/tufts-steps.jpg": "/portfolio/static/media/tufts-steps.d43dee73.jpg",
+    "static/media/varsity-bball.jpg": "/portfolio/static/media/varsity-bball.bd2aaff6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.46091dda.chunk.js",
+    "static/css/main.298cf8e8.chunk.css",
+    "static/js/main.a44f4178.chunk.js"
+  ]
+}
